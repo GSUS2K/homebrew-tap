@@ -1,13 +1,13 @@
 cask "aether" do
-  version "2026.5.6"
+  version "2026.5.7"
   on_arm do
-    sha256 "a01d8cd1ba55d7ef3e076b06de1865b41664a2d52898d9bb2b1b291f298328b5"
-    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.6/Aether-arm64.dmg"
+    sha256 "aef369a4cd18d37337d2628b8ec1565586193f285dd01d3d8638b74c4f373920"
+    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.7/Aether-arm64.dmg"
   end
 
   on_intel do
-    sha256 "8d366ffef88886e0ef838dbeb8631912997fcb1f6e9b4f9903382c0ba5eeb66a"
-    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.6/Aether-x64.dmg"
+    sha256 "896599949ed5fc0dd81fad02994c50ddddf780c83774779ca400e53e1d390cfa"
+    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.7/Aether-x64.dmg"
   end
 
   name "Aether"
