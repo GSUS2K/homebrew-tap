@@ -1,13 +1,13 @@
 cask "aether" do
-  version "2026.5.9"
+  version "2026.5.10"
   on_arm do
-    sha256 "89473fcf970f0bf70592d0d47f24469b85f57429caffb9e34fb01c723d2bb1e6"
-    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.9/Aether-macOS-arm64.dmg"
+    sha256 "2d1956703dbd34d451b85a0f80f2ad9a6cf7a8d09e20725f51e19c4d7cded843"
+    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.10/Aether-macOS-arm64.dmg"
   end
 
   on_intel do
-    sha256 "11f43a45904fc908ca82b1f55fc4b356888e4c1f5a4a9bb2adaac8ae88448a5d"
-    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.9/Aether-macOS-x64.dmg"
+    sha256 "4acfe7accc2acf872076551e42e49eb82c1c946174487dabd3414e0a120c555d"
+    url "https://github.com/GSUS2K/Aether-Studio/releases/download/v2026.5.10/Aether-macOS-x64.dmg"
   end
 
   name "Aether"
